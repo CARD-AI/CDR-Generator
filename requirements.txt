@@ -1,0 +1,7 @@
+numpy==1.20.0
+json==2021.04.05
+random==2021.04.05
+csv==2021.04.05
+datetime==4.3
+operator==2021.04.05
+scipy==1.6.2

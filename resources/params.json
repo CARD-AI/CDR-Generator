@@ -1,0 +1,9 @@
+{
+   "customerNum": 1000,
+   "operatorNum": 3,
+   "callNum": 100,
+   "maxFriends": 5,
+   "maxAcquaintances": 10,
+   "startDate": "2020-12-4",
+   "situation": 2
+}
