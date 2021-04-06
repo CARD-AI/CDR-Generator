@@ -47,5 +47,8 @@ The results are given in the csv files. The main generator results are stored in
 
 For the situation 1, there is a possibility to generate only the additional increased flow results, generated during the event period. These results are stored in the './results/cdr_situation1.csv'.
 
+# Citation
+The article describing this generator was accepted to the IVUS2021 conference.
+
 # License
 Distributed under the The MIT License.
